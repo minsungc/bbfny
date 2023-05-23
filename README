@@ -1,0 +1,4 @@
+an implementation of a generalization of huang and darwiche's 
+branch-and-bound algorithm, verified in dafny
+
+also an excuse for me to try out dafny
